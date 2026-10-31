@@ -1,2 +1,2 @@
 # Subhankar-Sibul-
-Social Media Creator andH appy Lifestyle 
+Social Media Creator and Happy Lifestyle 
