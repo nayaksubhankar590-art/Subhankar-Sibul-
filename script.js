@@ -1,0 +1,1 @@
+const toggle=document.getElementById("languageToggle");let odia=false;toggle.addEventListener("click",()=>{odia=!odia;document.querySelectorAll("[data-en][data-or]").forEach(el=>{el.textContent=odia?el.dataset.or:el.dataset.en});toggle.textContent=odia?"English":"ଓଡ଼ିଆ"});document.getElementById("year").textContent=new Date().getFullYear();
